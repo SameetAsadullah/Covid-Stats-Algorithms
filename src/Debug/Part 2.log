@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Part 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+F:\Uniii\Github Repositories\Covid-Stats-Algorithms\src\q3.h(137,20): warning C4018: '<': signed/unsigned mismatch
+F:\Uniii\Github Repositories\Covid-Stats-Algorithms\src\q4.h(125,20): warning C4018: '<': signed/unsigned mismatch
+F:\Uniii\Github Repositories\Covid-Stats-Algorithms\src\q5.h(110,31): warning C4018: '<': signed/unsigned mismatch
+F:\Uniii\Github Repositories\Covid-Stats-Algorithms\src\q5.h(210,27): warning C4018: '<': signed/unsigned mismatch
+F:\Uniii\Github Repositories\Covid-Stats-Algorithms\src\functions.h(30): warning C4715: 'checkInput': not all control paths return a value
+  Part 2.vcxproj -> F:\Uniii\Github Repositories\Covid-Stats-Algorithms\src\Debug\Project.exe
