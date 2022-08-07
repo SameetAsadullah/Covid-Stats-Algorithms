@@ -23,13 +23,13 @@ A program to find out `Covid Stats of Different Countries` using `Efficient Algo
     
 ### Working Screenshots
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Covid-Stats-Algorithms/blob/main/extras/working-ss-1.png" alt = "" width="900px"/>
+  <img src = "https://github.com/SameetAsadullah/Covid-Stats-Algorithms/blob/main/extras/working-ss-1.png" alt = "" width="800px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Covid-Stats-Algorithms/blob/main/extras/working-ss-2.png" alt = "" width="900px"/>
+  <img src = "https://github.com/SameetAsadullah/Covid-Stats-Algorithms/blob/main/extras/working-ss-2.png" alt = "" width="800px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Covid-Stats-Algorithms/blob/main/extras/working-ss-3.png" alt = "" width="900px"/>
+  <img src = "https://github.com/SameetAsadullah/Covid-Stats-Algorithms/blob/main/extras/working-ss-3.png" alt = "" width="800px"/>
 </div>
